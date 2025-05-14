@@ -15,7 +15,7 @@ S3 Bucket (Frontend)
 S3 Bucket (Media)
 
 IAM User
-
+![Architecture Diagram](./architecture-diagram.png)
 ## Clone your GitHub repo and prepare the folder
  ```bash
 1. git clone https://github.com/manal-111/mern-blog-deployment.git
