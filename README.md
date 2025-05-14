@@ -106,4 +106,5 @@ Remove secrets from EC2 (rm ~/.env)
 Deactivate IAM keys 
 ## 📬 submitted by
 Student Name: manal almuwallad
+
 Course: Clarusway – DevOps Bootcamp – Infrastructure Module
